@@ -1,0 +1,14 @@
+{
+  "name": "im-plugin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "i18n:im-plugin.title",
+    "width": 600,
+    "height": 400,
+    "min-width": 200,
+    "min-height": 200
+  }
+}
